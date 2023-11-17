@@ -16,11 +16,18 @@ This is a fork of the original DeepFake roop project. Please note that the origi
 
 HyperMorph can be utilized without the need for installation. You can directly access and run it through Google Colab, eliminating the complexities associated with manual installations.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aryankashyap7/HyperMorph/blob/main/HyperMorphColab.ipynb)
+
+<details>
+<summary>Manual Installation</summary>
+
 But incase of Manual Installation on your local machine you can follow these steps.
 
 [Basic](https://github.com/s0md3v/roop/wiki/1.-Installation) - It is more likely to work on your computer, but will be quite slow
 
 [Acceleration](https://github.com/s0md3v/roop/wiki/2.-Acceleration) - Unleash the full potential of your CPU and GPU
+
+</details>
 
 ## Usage
 
