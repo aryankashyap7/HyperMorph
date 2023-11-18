@@ -1,6 +1,6 @@
-# HyperMorph (Forked)
+# HyperMorph (Modified Forked)
 
-<img src="./assets/logo.jpg"></img>
+[![Special Edition: Based9Based HyperMorph](./assets/logo.jpg)](https://colab.research.google.com/github/aryankashyap7/HyperMorph/blob/main/assets/Special%20Edition/HyperMorphColabNoLimits.ipynb)
 
 ## Project Status
 
